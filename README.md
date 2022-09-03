@@ -1,0 +1,14 @@
+# nakasig-user 5.1.1 LMY47V 1836172 release-keys
+- manufacturer: asus
+- platform: tegra3
+- codename: tilapia
+- flavor: nakasig-user
+- release: 5.1.1
+- id: LMY47V
+- incremental: 1836172
+- tags: release-keys
+- fingerprint: google/nakasig/tilapia:5.1.1/LMY47V/1836172:user/release-keys
+- is_ab: false
+- brand: google
+- branch: nakasig-user-5.1.1-LMY47V-1836172-release-keys
+- repo: google_tilapia_dump
